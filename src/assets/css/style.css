@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap');
+@import './style.override.css';
+
+.bg-purple-gradient {
+  background: linear-gradient(-225deg, #ac32e4, #7918f2 48%, #4801ff) !important;
+}
+
+.font-family-roboto {
+  font-family: 'Roboto' !important;
+}
+
+html,
+body {
+  font-family: 'Roboto', Arial, sans-serif;
+}
